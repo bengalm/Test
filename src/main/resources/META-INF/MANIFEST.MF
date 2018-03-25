@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: me.jamesj.portscanner.Bootstrap
+Main-Class: me.jamesj.portscanner.Bootstrap
