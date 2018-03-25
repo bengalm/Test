@@ -20,7 +20,7 @@ public class PortScanner {
 
     public void start(String[] args){
         PrintStream out = System.out;
-        out.println("");
+        out.println("Powered by bengal Em:406894560@qq.com");
         AtomicInteger openPorts = new AtomicInteger(0);
         BufferedReader bufferRead = new BufferedReader(new InputStreamReader(System.in));
       //  String ipOrCidr = "";
